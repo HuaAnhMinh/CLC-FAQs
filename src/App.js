@@ -1,8 +1,17 @@
 import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+import MainPage from './components/MainPage';
+import Topic from './components/Topic';
 
 function App() {
   return (
-    <div></div>
+    <Router basename="/">
+      <Switch>
+        <Route path="/" exact component={MainPage} />
+        <Route path="/:topicName" component={Topic} />
+      </Switch>
+    </Router>
   );
 }
 

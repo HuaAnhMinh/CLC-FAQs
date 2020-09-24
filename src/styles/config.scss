@@ -1,0 +1,54 @@
+$xl-font-size: 64px;
+$l-font-size: 50px;
+$m-font-size: 32px;
+$s-font-size: 24px;
+$xs-font-size: 16px;
+
+$min-phone-width: 320px;
+$max-phone-width: 420px;
+
+$min-tablet-width: 421px;
+$max-tablet-width: 800px;
+
+$min-pc-width: 801px;
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.container {
+  margin: auto;
+}
+
+@media only screen and (min-width: $min-phone-width) and (max-width: $max-phone-width) {
+  .container {
+    width: 95%;
+  }
+}
+
+@media only screen and (min-width: $min-tablet-width) and (max-width: $max-tablet-width) {
+  .container {
+    width: $min-tablet-width;
+  }
+}
+
+@media only screen and (min-width: $min-pc-width) {
+  .container {
+    width: $min-pc-width;
+  }
+}
