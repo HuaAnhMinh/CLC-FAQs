@@ -9,6 +9,7 @@ import Header from './Header';
 import TopicActions from './TopicActions';
 
 import '../styles/components/Topic.scss';
+import loading from '../assets/loading.gif';
 
 import topicsInformation from '../topics/information';
 import TopicNotFound from './TopicNotFound';
@@ -18,9 +19,11 @@ const Topic = props => {
   const [topicPosition, setTopicPosition] = useState(0);
   const [markdown, setMarkdown] = useState('');
   const [notFound, setNotFound] = useState(false);
+  const [isFetched, setIsFetched] = useState(false);
 
   useEffect(() => {
     setNotFound(false);
+    setIsFetched(false);
 
     const topicName = props.match.params.topicName;
     const topicFound = topicsInformation.find((topic, index) => {
@@ -36,6 +39,7 @@ const Topic = props => {
     }
     else {
       setNotFound(true);
+      setIsFetched(false);
     }
   }, [props.match.params.topicName]);
 
@@ -47,7 +51,9 @@ const Topic = props => {
     }
     catch (error) {
       console.log(error);
+      setNotFound(true);
     }
+    setIsFetched(true);
   };
 
   useEffect(() => {
@@ -86,12 +92,22 @@ const Topic = props => {
             { topicInfo && topicInfo.createdAt }
           </Typography>
 
+        {
+          isFetched &&
           <Typography
             variant="body1"
             component="p"
             dangerouslySetInnerHTML={{ __html: markdown }}
             className="topic__body__content"
           />
+        }
+
+        {
+          !isFetched &&
+          <div style={{ width: '100%', textAlign: 'center' }}>
+            <img alt="Loading..." src={loading} />
+          </div>
+        }
 
         </CardContent>
 
