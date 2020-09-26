@@ -21,6 +21,7 @@ const TopicNotFound = props => {
           variant="h4"
           component="h4"
           className="topic__body__title"
+          style={{ marginTop: '20px' }}
         >
           Không tồn tại topic cần tìm
         </Typography>

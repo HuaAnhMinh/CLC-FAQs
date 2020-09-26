@@ -59,4 +59,36 @@
       font-style: italic;
     }
   }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+  }
+
+  p {
+    line-height: 22pt;
+  }
+
+  ul, ol {
+    li {
+      margin-bottom: 6px;
+    }
+  }
+}
+
+@media only screen and (min-width: $min-tablet-width) and (max-width: $max-tablet-width) {
+  .topic__body {
+    .MuiCardContent-root {
+      padding-left: 24px !important;
+      padding-right: 24px !important;
+    }
+  }
+}
+
+@media only screen and (min-width: $min-pc-width) {
+  .topic__body {
+    .MuiCardContent-root {
+      padding-left: 32px !important;
+      padding-right: 32px !important;
+    }
+  }
 }

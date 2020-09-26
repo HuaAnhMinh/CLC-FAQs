@@ -15,7 +15,7 @@ import topicsInformation from '../topics/information';
 
 const MainPage = props => {
   const [searchPattern, changeSearchPattern] = useState('');
-
+  
   return (
     <div className="container main-page">
       <Header />
