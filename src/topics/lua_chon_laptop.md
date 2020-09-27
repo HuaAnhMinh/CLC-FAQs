@@ -68,7 +68,22 @@ TDP càng cao thì laptop càng ngốn nhiều điện. Laptop hiện nay chỉ 
 
 ## RAM máy tính
 
-RAM thì các bạn nên chọn ít nhất là 8GB và nếu có điều kiện thì chọn 16GB nhé. Các ứng dụng trong ngành này ngốn khá nhiều RAM, càng học lên thì các tool sẽ càng ngốn và ngốn nhiều hơn nữa. Do đó nếu chọn RAM ít quá thì chạy sẽ bị ì ạch và dễ bị crash ứng dụng. Nếu chọn giữa RAM và chip thì mình ưu tiên sẽ chọn RAM 16GB và giảm nhu cầu chip xuống một chút (nhưng vẫn đảm bảo là xung nhịp cơ bản >= 2.0 GHz).
+RAM thì các bạn nên chọn ít nhất là 8GB và nếu có điều kiện thì chọn 16GB nhé. Các ứng dụng trong ngành này ngốn khá nhiều RAM, càng học lên thì các tool sẽ càng ngốn và ngốn nhiều hơn nữa. Do đó nếu chọn RAM ít quá thì chạy sẽ bị ì ạch và dễ bị crash ứng dụng. Nếu chọn giữa RAM và chip thì mình ưu tiên sẽ chọn RAM 16GB và giảm nhu cầu chip xuống một chút (nhưng vẫn đảm bảo là xung nhịp cơ bản >= 2.0 GHz). Một lưu ý nữa là hãy mua những laptop có khả năng nâng cấp tốt một chút, có thể nâng cấp RAM và ổ cứng, đừng mua những loại laptop có linh kiện bị hàn chết (không thể nâng cấp). Nếu phải mua những loại đó thì ban đầu nên chi tiền mua mức cấu hình cao một chút để có thể dùng lâu dài.
+
+## Ổ cứng lưu trữ
+
+Đây cũng là một yếu tố khá quan trọng, đặc biệt là khi mở máy hay mở app, việc dùng ổ cứng SSD sẽ cho tốc độ truy xuất nhanh hơn và đọc ghi mở app các kiểu sẽ nhanh hơn rất nhiều so với ổ cứng HDD truyền thống. Hầu hết các máy hiện nay khi mua mới thường sẽ có SSD với dung lượng 128GB. Nếu ổn các bạn nên nâng cấp lên 256GB sẽ thoải mái hơn khi cài đặt nhiều app. Các ổ cứng SSD hiện nay giá đã giảm rất nhiều so với cách đây 3 4 năm nên việc mua 1 ổ cứng SSD 256 GB cũng khá đơn giản. Ổ cứng SSD có 2 loại chính:
+
+* SATA: ổ cứng SSD loại này thì toàn bộ các laptop đều có hỗ trợ và cho tốc độ đọc và ghi cao nhất là 500MB/s. Hình dạng ổ cứng SATA sẽ là hình khối hộp như bên dưới.
+![Ổ cứng SATA](https://i.imgur.com/kRUtACz.png)
+* NVME: ổ cứng SSD loại này sẽ cho tốc độ rất cao và hơn nhiều so với ổ SATA thông thường (có thể đạt đến hơn 1500MB/s). Nhược điểm là ổ này sử dụng cổng kết nối M2. Các dòng laptop mới sẽ support loại ổ cứng này nhưng những laptop sử dụng chip từ đời 7 trở về trước thì tùy dòng mới có. Các bạn cũng nên lưu ý một số ổ cứng tuy là dạng SATA nhưng lại sử dụng cổng M2. Những ổ này thì tốc độ đọc và ghi cũng tương tự như ổ SATA thông thường thôi chứ không đạt đến ngưỡng của NVME. Hình dạng ổ cứng NVME sẽ là 1 thanh hình chữ nhật như bên dưới.
+![Ổ cứng NVME](https://i.imgur.com/5aOa1wk.png)
+
+Một vấn đề khác cần lưu ý khi mua SSD đó là chỉ số TBW (Terabytes Written) là số TB đã ghi vào ổ cứng. Nếu số TB bạn ghi vào ổ cứng đạt giới hạn này thì ổ cứng sẽ chuyển sang trạng thái chỉ đọc và không thể ghi được vào đó. Nhưng đừng lo về vấn đề này, với nhu cầu sử dụng thông thường thì 1 ổ cứng 128GB có thể sử dụng liên tục trong vòng hơn 5 năm thì mới tới giới hạn TBW này. Lúc đó có khi bạn đã thay máy mới ổ cứng mới luôn rồi ấy chứ.
+
+Nếu các bạn có nhu cầu lưu trữ nhiều có thể sử dụng giải pháp là dùng 1 ổ cứng SSD NVME 256GB để cài đặt hệ điều hành và app và 1 ổ cứng HDD với dung lượng 256GB - 500GB để lưu trữ tài liệu các kiểu.
+
+Ngoài ra có một số laptop sử dụng công nghệ bộ nhớ Optane. Về công nghệ này thì các bạn có thể tự Google tìm hiểu thêm nhưng mình khuyến cáo là không nên dùng vì nó không phải dùng như là ổ cứng lưu trữ vì nó cũng sử dụng chung cổ M2 với ổ cứng M2 NVME. Các bạn nên đầu tư mua máy có sẵn ổ cứng M2 NVME thay vì có sẵn bộ nhớ Optane vì nếu mua máy có Optane nó sẽ chiếm slot có sẵn của ổ cứng nên khi mua về các bạn có thể sẽ phải tháo ổ Optane ra và lắp ổ NVME của các bạn vào khá là phiền.
 
 # Chất lượng build của máy
 
