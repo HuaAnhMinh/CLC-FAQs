@@ -83,7 +83,7 @@ Một vấn đề khác cần lưu ý khi mua SSD đó là chỉ số TBW (Terab
 
 Nếu các bạn có nhu cầu lưu trữ nhiều có thể sử dụng giải pháp là dùng 1 ổ cứng SSD NVME 256GB để cài đặt hệ điều hành và app và 1 ổ cứng HDD với dung lượng 256GB - 500GB để lưu trữ tài liệu các kiểu.
 
-Ngoài ra có một số laptop sử dụng công nghệ bộ nhớ Optane. Về công nghệ này thì các bạn có thể tự Google tìm hiểu thêm nhưng mình khuyến cáo là không nên dùng vì nó không phải dùng như là ổ cứng lưu trữ vì nó cũng sử dụng chung cổ M2 với ổ cứng M2 NVME. Các bạn nên đầu tư mua máy có sẵn ổ cứng M2 NVME thay vì có sẵn bộ nhớ Optane vì nếu mua máy có Optane nó sẽ chiếm slot có sẵn của ổ cứng nên khi mua về các bạn có thể sẽ phải tháo ổ Optane ra và lắp ổ NVME của các bạn vào khá là phiền.
+Ngoài ra có một số laptop sử dụng công nghệ bộ nhớ Optane. Về công nghệ này thì các bạn có thể tự Google tìm hiểu thêm nhưng mình khuyến cáo là không nên dùng vì nó không phải dùng như là ổ cứng lưu trữ và hơn nữa nó cũng sử dụng chung cổng M2 với ổ cứng NVME. Các bạn nên đầu tư mua máy có sẵn ổ cứng NVME thay vì có sẵn bộ nhớ Optane vì nếu mua máy có Optane sẵn nó sẽ chiếm slot có sẵn của ổ cứng nên khi mua về các bạn có thể sẽ phải tháo ổ Optane ra và lắp ổ NVME của các bạn vào nên sẽ khá là phiền.
 
 # Chất lượng build của máy
 
