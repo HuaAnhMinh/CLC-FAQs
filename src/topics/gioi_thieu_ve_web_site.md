@@ -29,7 +29,7 @@ Một số công nghệ, thư viện mà mình dùng để tạo ra website:
 * [Material-UI](https://material-ui.com/) - làm giao diện có hiệu ứng như Material Design trên Android.
 * [Firebase](https://firebase.google.com/) - để host.
 
-Website là mã nguồn mở và các bạn có thể tìm thấy mã nguồn, bài viết (dưới dạng file markdown) ở đây: [link](https://github.com/HuaAnhMinh/clc-faqs). Nếu các bạn không thích đọc online thì có thể vào ./src/topics và tải các file định dạng markdown (.md) bên trong về đọc.
+Website là mã nguồn mở và các bạn có thể tìm thấy mã nguồn, bài viết (dưới dạng file markdown) ở đây: [link](https://github.com/HuaAnhMinh/tuvan-chiase-ctda). Nếu các bạn không thích đọc online thì có thể vào ./src/topics và tải các file định dạng markdown (.md) bên trong về đọc.
 
 <br>
 <p style="text-align: right;"><i>Người tạo ra website - Hứa Anh Minh</i></p>
