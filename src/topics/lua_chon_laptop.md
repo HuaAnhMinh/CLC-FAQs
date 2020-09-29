@@ -40,7 +40,7 @@ Trên laptop từ thế hệ 8 trở về sau thì sẽ có 2 hậu tố chính 
 
 Đây là những yếu tố mấu chốt quyết định sức mạnh của 1 con chip và cũng là những yếu tố khó hiểu nhất.
 
-Với số nhân và số luồng, nói đơn giản thì hầu hết các dòng laptop hiện nay đều có số nhân và luồng đáp ứng được cho nhu cầu công việc lập trình. Nếu các bạn mua lại máy cũ thì chú ý số nhân không nên dưới 2 và số luồng không nên dưới 4. Thông thường phổ biến nhất là 2 nhân 4 luồng (chip i3 hậu tố U), 4 nhân 8 luồng.
+Với số nhân và số luồng, nói đơn giản thì hầu hết các dòng laptop hiện nay đều có số nhân và luồng đáp ứng được cho nhu cầu công việc lập trình. Nếu các bạn mua lại máy cũ thì chú ý số nhân không nên dưới 2 và số luồng không nên dưới 4. Thông thường phổ biến nhất là 2 nhân 4 luồng (chip i3 hậu tố U), 4 nhân 8 luồng, 6 nhân 12 luồng.
 
 Với xung nhịp, nói đơn giản thì có thể xem đây là tốc độ xử lý của máy, toàn bộ những dòng laptop có chip Intel từ thế hệ 8 trở về sau sẽ có 2 thông số xung nhịp như sau:
 
