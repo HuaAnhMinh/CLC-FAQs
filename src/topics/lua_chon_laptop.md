@@ -85,7 +85,7 @@ Nếu các bạn có nhu cầu lưu trữ nhiều có thể sử dụng giải p
 
 Ngoài ra có một số laptop sử dụng công nghệ bộ nhớ Optane. Về công nghệ này thì các bạn có thể tự Google tìm hiểu thêm nhưng mình khuyến cáo là không nên dùng vì nó không phải dùng như là ổ cứng lưu trữ và hơn nữa nó cũng sử dụng chung cổng M2 với ổ cứng NVME. Các bạn nên đầu tư mua máy có sẵn ổ cứng NVME thay vì có sẵn bộ nhớ Optane vì nếu mua máy có Optane sẵn nó sẽ chiếm slot có sẵn của ổ cứng nên khi mua về các bạn có thể sẽ phải tháo ổ Optane ra và lắp ổ NVME của các bạn vào nên sẽ khá là phiền.
 
-# Card đồ họa (hay card màn hình)
+## Card đồ họa (hay card màn hình)
 
 Thực tế thì vấn đề về card màn hình không phải là quá quan trọng khi các bạn còn đi học. Nếu mua máy và có nhu cầu chơi game hay edit hình ảnh video các kiểu thì hay lựa chọn những máy có card rời (Nvidia hoặc AMD). Với dòng Nvidia thì thường sẽ có 3 nhánh thường gặp khi mua laptop:
 
