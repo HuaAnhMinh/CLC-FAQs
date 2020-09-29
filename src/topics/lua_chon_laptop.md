@@ -85,6 +85,18 @@ Nếu các bạn có nhu cầu lưu trữ nhiều có thể sử dụng giải p
 
 Ngoài ra có một số laptop sử dụng công nghệ bộ nhớ Optane. Về công nghệ này thì các bạn có thể tự Google tìm hiểu thêm nhưng mình khuyến cáo là không nên dùng vì nó không phải dùng như là ổ cứng lưu trữ và hơn nữa nó cũng sử dụng chung cổng M2 với ổ cứng NVME. Các bạn nên đầu tư mua máy có sẵn ổ cứng NVME thay vì có sẵn bộ nhớ Optane vì nếu mua máy có Optane sẵn nó sẽ chiếm slot có sẵn của ổ cứng nên khi mua về các bạn có thể sẽ phải tháo ổ Optane ra và lắp ổ NVME của các bạn vào nên sẽ khá là phiền.
 
+# Card đồ họa (hay card màn hình)
+
+Thực tế thì vấn đề về card màn hình không phải là quá quan trọng khi các bạn còn đi học. Nếu mua máy và có nhu cầu chơi game hay edit hình ảnh video các kiểu thì hay lựa chọn những máy có card rời (Nvidia hoặc AMD). Với dòng Nvidia thì thường sẽ có 3 nhánh thường gặp khi mua laptop:
+
+* Dòng MX: thường thấy ở những laptop mỏng nhẹ dùng cho nhu cầu văn phòng. Phù hợp cho nhu cầu giải trí mức **cơ bản**, chơi game nhẹ nhàng và edit hình ảnh nhẹ nhàng. Nếu chơi game nặng (như mấy game AAA) cấu hình cao thì nên cân nhắc dòng card bên dưới.
+* Dòng GTX: thường xuất hiện nhiều nhất và thường thấy ở những laptop gaming giá rẻ hoặc trung bình, đôi khi laptop mỏng nhẹ nhưng cấu hình cao cũng có. Nếu để chơi game nặng thì dòng card này khá ổn. Với một số card thấp và cũ thuộc nhóm GTX như 1050, 1050Ti thì hiện nay khá yếu và có thể không phù hợp để chơi **một số** các game nặng trong 1-2 năm nữa nên nếu chọn máy có sử dụng 2 loại này thì nên cân nhắc. Với card 1650, 1660 thì khá thoải mái hơn đôi chút khi vẫn có thể chơi được hầu hết các game nặng trong 1-2 năm nữa. Từ nhóm 1650Ti, 1660Ti, 1080 các kiểu thì các bạn cứ an tâm mà chiến vì đây là những card vẫn còn khá mạnh trong thời điểm hiện tại.
+* Dòng RTX: ít phổ biến hơn và đây là dòng card mạnh nhất ở thời điểm hiện tại. Các máy sử dụng dòng RTX này sẽ thường sử dụng dòng 20xx series (như 2050, 2060, 2060 Super, 2070, 2080, 2080Ti). Cá nhân mình thì nếu phải mua laptop mỏng nhẹ thì không khuyến khích mua dòng này lắm do nó dễ gây nóng máy cũng như các bạn khó tận dụng được hết hiệu năng của dòng card này. Nếu build PC để bàn thì mình khuyến khích vì có thể sử dụng dòng card này lâu dài trong 4-5 năm tới rất thoải mái.
+
+Dòng AMD thì mình không rành lắm và hơn nữa ở mảng card đồ họa thì AMD lép vế hơn rất nhiều so với Nvidia. Có Apple thì vẫn đang sử dụng card AMD trên các dòng Macbook, iMac của mình.
+
+Lưu ý: nếu các bạn dự định sẽ học theo mảng về AI (Artificial Intelligence) và sâu hơn chút là ML (Machine Learning) thì nên mua card Nvidia nhé. Các thư viện xử lý ML nổi tiếng hiện nay như Tensorflow chỉ support nhân Cuda, là lõi bên trong của card Nvidia nên các bạn mua card AMD sẽ không thể tận dụng được ưu điểm này của các thư viện và có thể gây ảnh hưởng đến hiệu suất.
+
 # Chất lượng build của máy
 
 Đây là một yếu tố cũng không kém phần quan trọng. Máy cấu hình mạnh nhưng có chất lượng build kém thì xài sau 1 thời gian cũng nhanh hỏng hoặc gây ảnh hưởng đến hiệu suất làm việc. Chất lượng build ở đây mình sẽ chia thành 3 mục quan trọng nhất đối với công việc lập trình:

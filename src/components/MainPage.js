@@ -41,7 +41,7 @@ const MainPage = props => {
                       { topicInfo.createdAt }
                     </Typography>
 
-                    <Typography variant="body2" component="p">
+                    <Typography variant="body2" component="p" className="main-page__body__card__description">
                       { topicInfo.description }
                     </Typography>
                   </CardContent>
