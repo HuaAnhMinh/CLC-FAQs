@@ -15,6 +15,15 @@ const topicsInformation = [{
     'mà không phải tốn quá nhiều tiền một cách vô ích.',
   ref: 'lua_chon_laptop.md',
   pathname: 'cach_chon_mua_laptop',
-}];
+}, /*{
+  id: '77c0054b-b709-420a-9672-50a21606fba1',
+  title: 'Hướng dẫn tải và cài đặt Microsoft Visual Studio',
+  createdAt: 'Chủ Nhật ngày 04/10/2020',
+  description: 'Microsoft Visual Studio là bộ công cụ hỗ trợ rất tiện dụng cho quá trình viết code, ' +
+    'đặc biệt là với các bạn sinh viên mới thì bộ công cụ này còn tiện lợi vì quá trình cài đặt không quá khó khăn của nó ' +
+    'nên trong bài viết này mình sẽ hướng dẫn các bạn tải và cài đặt bộ công cụ này.',
+  ref: 'huong_dan_cai_dat_visual_studio.md',
+  pathname: 'huong_dan_cai_dat_visual_studio',
+}*/];
 
 export default topicsInformation;
