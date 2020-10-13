@@ -133,8 +133,8 @@ Các bạn sau đó có thể nhập đoạn code như hình dưới vào:
 using namespace std;
 
 int main() {
-    cout << "Hello, World!!!" << endl;
-    return 0;
+  cout << "Hello, World!!!";
+  return 0;
 }
 ```
 
@@ -177,8 +177,8 @@ Sau khi tạo file xong thì các bạn copy đoạn code bên dưới paste và
 using namespace std;
 
 int main() {
-    cout << "Hello, Bai 02" << endl;
-    return 0;
+  cout << "Hello, Bai 02";
+  return 0;
 }
 ```
 
@@ -201,3 +201,6 @@ Sau khi hoàn tất các bước trên, các bạn có thể tiến hành cập 
 Tiếp đến các bạn chỉ cần bấm vào dòng **Check for an updated license** là được.
 
 ![](https://i.imgur.com/fqJ5Ydq.png)
+
+<br>
+<p style="text-align: right;"><i>Người tạo ra website - Hứa Anh Minh</i></p>
