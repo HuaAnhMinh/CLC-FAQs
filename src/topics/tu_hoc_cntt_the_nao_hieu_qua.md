@@ -88,6 +88,21 @@ Một số blog của các công ty công nghệ lớn:
 
 Có rất nhiều diễn đàn lớn về công nghệ và lập trình trong ngành CNTT mà mọi người thường lên đó đặt câu hỏi và chia sẻ câu trả lời của mình. Nổi trội nhất đó là [Stackoverflow](https://stackoverflow.com/), [Reddit - đít đỏ](https://www.reddit.com/), [Quora](https://www.quora.com/). Đây cũng là những trang mà các bạn có thể lên đây đặt câu hỏi nếu không giải đáp được thắc mắc. Nhưng lưu ý là chỉ nên đặt câu hỏi khi chưa có ai đặt và giải đáp thôi nhé.
 
+## Từ sách
+
+Lượng sách trong CNTT thì rất nhiều. Hầu hết các sách sẽ là về kỹ năng cứng như hướng dẫn về công nghệ, các kỹ thuật abcxyz các kiểu giúp cải thiện khả năng code của các bạn. Lượng thông tin trong sách thì có mức độ chính xác khá cao so với các phương pháp kể trên nhưng cũng cần phải cân nhắc một số lưu ý khi chọn sách:
+
+* Nên chọn sách tiếng Anh để trau dồi thêm vốn ngoại ngữ. Có một số sách có bản dịch ra tiếng Việt nhưng mình khuyên nên đọc trực tiếp bản tiếng Anh vì sẽ giúp cải thiện ngoại ngữ các bạn. Nhiều bạn sẽ ngại đọc tiếng Anh do khó hiểu nhưng các bạn cứ cố gắng kiên trì đọc và tra Google nghĩa những từ mới thì dần dần khả năng đọc của bạn sẽ được cải thiện.
+* Nên chia thời gian đọc hợp lý. Với blog ta thích đọc lúc nào thì đọc, còn sách thì các bạn nên có 1 khoảng thời gian hợp lý trong ngày để dành ra cho mỗi việc đọc sách vì hàm lượng thông tin trong sách rất nhiều hơn so với 1 bài blog. Nếu các bạn đọc nửa nạc nửa mỡ, lâu lâu đọc chút ít thì sẽ không thể nào hoàn thành một quyển sách cả.
+* Nên xem review về sách trước khi đọc. Có một số sách có lượng kiến thức rất đồ sộ và khó hiểu có thể không phù hợp với trình độ những bạn mới nên các bạn cần xem review để biết sách để có thật sự phù hợp với bản thân không.
+* Nếu có điều kiện mình khuyến khích đặt mua sách gốc để đọc thay vì đọc các bản pdf lậu các kiểu vì như thế sẽ giúp ủng hộ tác giả và tôn trọng bản quyền của họ.
+* Một số đầu sách hay nhà xuất bản sách mà mình gợi ý như:
+  * những sách có tựa "For Dummies": sách cho người mới đọc, viết dễ hiểu.
+  * Những sách có tựa "Head first": cũng là dòng sách cho người mới đọc.
+  * Sách của nhà xuất bản O'Reilly (sách "Head First" cũng thuộc nhà xuất bản này).
+  * Sách của nhà xuất bản Wiley: sách của nhà xuất bản này hơi khó đọc do chuyên sâu.
+  * Sách của nhà xuất bản Apress.
+
 ## Từ các bài báo nghiên cứu khoa học
 
 Phương pháp này thì khá ít người làm theo nhưng nó lại là phương pháp giúp cung cấp thông tin chính xác nhất trong tất cả. Một bài báo nghiên cứu khoa học khi được công bố ở các hội nghị hay trên tạp chí thì trước đó đã phải trải qua rất nhiều bước xét duyệt và chỉnh sửa từ cả người viết lẫn những người đánh giá bài báo nên sẽ cho mức độ chính xác rất cao. Dĩ nhiên là hầu hết những bài báo này có lượng kiến thức rất chuyên sâu nên nhiều bạn mới học sẽ khó tiếp cận được nên các bạn có thể ghi chú lại để khi đã có một lượng kiến thức vững chắc thì có thể đọc những bài báo khoa học này.
