@@ -35,6 +35,18 @@ const topicsInformation = [{
     'bạn có thể tiếp cận với lập trình dễ dàng hơn.',
   ref: 'nhap_mon_lap_trinh_hieu_qua.md',
   pathname: 'nhap_mon_lap_trinh_hieu_qua',
+}, {
+  id: 'fa57dcca-ecd7-4e2c-be4d-c6d05938a2b7',
+  title: 'Tự học trong ngành CNTT thế nào cho hiệu quả',
+  createdAt: 'Chủ Nhật ngày 18/10/2020',
+  description: 'Trong bài viết "Nhập môn lập trình" thế nào cho hiệu quả, mình có đề cập đến việc đừng chỉ học mỗi kiến ' +
+    'thức trên trường của giáo viên mà hãy tự tìm hiểu thêm những kiến thức khác. Tuy nhiên việc tìm hiểu thêm đối với ' +
+    'những bạn mới bắt đầu không hề đơn giản vì khối lượng thông tin là rất khổng lồ và trong đó có những thông tin đáng ' +
+    'giá để làm kiến thức, nhưng cũng có những thông tin lại có phần sai lệch không chính xác và nếu chẳng may đọc phải ' +
+    'thì sẽ ảnh hưởng không tốt về sau nên trong bài viết này mình sẽ đưa ra một số phương pháp cũng như nguồn kiến thức ' +
+    'phổ biến mà các bạn có thể tìm hiểu.',
+  ref: 'tu_hoc_cntt_the_nao_hieu_qua.md',
+  pathname: 'tu_hoc_cntt_the_nao_hieu_qua',
 }];
 
 export default topicsInformation;
