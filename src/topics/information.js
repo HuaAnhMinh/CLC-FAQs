@@ -47,6 +47,27 @@ const topicsInformation = [{
     'phổ biến mà các bạn có thể tìm hiểu.',
   ref: 'tu_hoc_cntt_the_nao_hieu_qua.md',
   pathname: 'tu_hoc_cntt_the_nao_hieu_qua',
+}, {
+  id: 'ee01337a-40e0-45b4-b162-8726285b7b41',
+  title: 'Cách sử dụng terminal cơ bản',
+  createdAt: 'Thứ 7 ngày 21/11/2020',
+  description: 'Terminal, để mô tả đơn giản nhất về "giao diện" của nó thì nó giống mấy cái màn hình đen mà mấy ông hacker ' +
+    'trong phim gõ các lệnh dài ngoằng khó hiểu và kỹ năng sử dụng terminal cũng là kỹ năng bắt buộc mà các lập trình ' +
+    'viên cần phải biết. Nhưng các bạn đừng quá lo vì trong bài viết này mình chỉ hướng dẫn các bạn sử dụng một số lệnh' +
+    'ở mức cơ bản nhất. Còn những lệnh phức tạp hơn thì từ từ các bạn sẽ được tìm hiểu thông qua các môn học hay trong ' +
+    'lúc đi làm.',
+  ref: 'terminal_co_ban.md',
+  pathname: 'terminal_co_ban'
+}, {
+  id: '2adbdbd0-6cd0-464f-9c15-09cd1091f62d',
+  title: 'Git và GitHub cơ bản',
+  createdAt: 'Thứ 7 ngày 21/11/2020',
+  description: 'Git và GitHub có lẽ là những từ mà các bạn sẽ thường được nghe nhất trong ngành này và quả thật ' +
+    'tầm quan trọng của Git và GitHub là không phải bàn cãi. Đây được xem như là kỹ năng must know tức là những ' +
+    'kỹ năng bắt buộc mà bất kỳ ai theo ngành này cũng đều phải biết. Vì vậy trong bài này mình sẽ hướng dẫn cho ' +
+    'các bạn về khái niệm Git và GitHub cũng như cách sử dụng chúng ở mức độ cơ bản nhất.',
+  ref: 'git_va_github_co_ban.md',
+  pathname: 'git_va_github_co_ban',
 }];
 
 export default topicsInformation;
