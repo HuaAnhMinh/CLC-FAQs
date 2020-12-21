@@ -1,5 +1,7 @@
 *Bài viết này được tổng hợp từ những bài viết của các năm trước.*
 
+Giáo Dục Quốc Phòng là một trong những "bộ môn" và "thú vui" không thể không nhắc đến khi học đại học. Đối với một số bạn thì khoảng thời gian này là rất vui vì có thể giao lưu gặp gỡ và có thêm những bạn mới (và có khi có bồ?). Với một số bạn khác thì khoảng thời gian này như dài lê thê bất tận vì những tiết học lý thuyết chán chường ngồi mòn cả mông. Vì vậy trong bài viết này mình sẽ tổng hợp lại những kinh nghiệm do các bậc "tiền bối" đi trước để lại giúp cho các bạn tự tin hơn khi học quốc phòng cũng như có một khoảng thời gian thú vị trong cuộc đời sinh viên.
+
 Bài viết này sẽ gồm 5 phần:
 
 1. Học
