@@ -48,26 +48,16 @@ const topicsInformation = [{
   ref: 'tu_hoc_cntt_the_nao_hieu_qua.md',
   pathname: 'tu_hoc_cntt_the_nao_hieu_qua',
 }, {
-  id: 'ee01337a-40e0-45b4-b162-8726285b7b41',
-  title: 'Cách sử dụng terminal cơ bản',
-  createdAt: 'Thứ 7 ngày 21/11/2020',
-  description: 'Terminal, để mô tả đơn giản nhất về "giao diện" của nó thì nó giống mấy cái màn hình đen mà mấy ông hacker ' +
-    'trong phim gõ các lệnh dài ngoằng khó hiểu và kỹ năng sử dụng terminal cũng là kỹ năng bắt buộc mà các lập trình ' +
-    'viên cần phải biết. Nhưng các bạn đừng quá lo vì trong bài viết này mình chỉ hướng dẫn các bạn sử dụng một số lệnh' +
-    'ở mức cơ bản nhất. Còn những lệnh phức tạp hơn thì từ từ các bạn sẽ được tìm hiểu thông qua các môn học hay trong ' +
-    'lúc đi làm.',
-  ref: 'terminal_co_ban.md',
-  pathname: 'terminal_co_ban'
-}, {
-  id: '2adbdbd0-6cd0-464f-9c15-09cd1091f62d',
-  title: 'Git và GitHub cơ bản',
-  createdAt: 'Thứ 7 ngày 21/11/2020',
-  description: 'Git và GitHub có lẽ là những từ mà các bạn sẽ thường được nghe nhất trong ngành này và quả thật ' +
-    'tầm quan trọng của Git và GitHub là không phải bàn cãi. Đây được xem như là kỹ năng must know tức là những ' +
-    'kỹ năng bắt buộc mà bất kỳ ai theo ngành này cũng đều phải biết. Vì vậy trong bài này mình sẽ hướng dẫn cho ' +
-    'các bạn về khái niệm Git và GitHub cũng như cách sử dụng chúng ở mức độ cơ bản nhất.',
-  ref: 'git_va_github_co_ban.md',
-  pathname: 'git_va_github_co_ban',
+  id: '44e6234c-e3a8-4010-82df-9b2a847e2c26',
+  title: 'Chia sẻ một số kinh nghiệm khi học Giáo Dục Quốc Phòng',
+  createdAt: 'Thứ Hai ngày 21/12/2020',
+  description: 'Giáo Dục Quốc Phòng là một trong những "bộ môn" và "thú vui" không thể không nhắc đến khi học đại học. ' +
+    'Đối với một số bạn thì khoảng thời gian này là rất vui vì có thể giao lưu gặp gỡ và có thêm những bạn mới (và có khi có bồ?). ' +
+    'Với một số bạn khác thì khoảng thời gian này như dài lê thê bất tận vì những tiết học lý thuyết chán chường ngồi mòn cả mông. ' +
+    'Vì vậy trong bài viết này mình sẽ tổng hợp lại những kinh nghiệm do các bậc "tiền bối" đi trước để lại giúp cho các bạn ' +
+    'tự tin hơn khi học quốc phòng cũng như có một khoảng thời gian thú vị trong cuộc đời sinh viên.',
+  ref: 'kinh_nghiem_gdqp.md',
+  pathname: 'chia_se_kinh_nghiem_hoc_gdqp'
 }];
 
 export default topicsInformation;
